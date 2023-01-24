@@ -11,6 +11,17 @@ public class CourseDetails {
 		System.out.println("python started");
 
 	}
+	public void javaMonth() {
+		System.out.println("stared on january");
+
+	}
+	public void testMonth() {
+		System.out.println("started on febraury");
+
+	}
+	public void pythonMonth() {
+		System.out.println("started on march");
+	}
 }
 
 
